@@ -7,11 +7,11 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 ### versione 1
 - definire possibili regali
-    - ricordare preferenze di sofia
+    - ricordare preferenze di Silvia
         - lampada
         - penna
         - libro
-- definire i reuqisiti per il regalo
+- definire i requisiti per il regalo
     - basso costo
     - spedizione veloce
 - andare su amazon
@@ -19,7 +19,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
         - guarda primo regalo
         - SE il regalo soddisfa i requisiti
             - acquista
-        - ALTRIMETNI
+        - ALTRIMENTI
             - guarda prossimo regalo
 
 
@@ -29,7 +29,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
     - penna stilografica
     - libri
 - accendere il computer
-    - assicurarzi che ci sia internet
+    - assicurarsi che ci sia internet
 - aprire un browser
     - apire il sito amazon.it
 - scegliere regalo
@@ -46,7 +46,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
                 - compra regalo
             - ALTRIMENTI
                 - Silvia ho la febbre scusa tanto ti voglio bene :(
-                  
+
 
 ### versione 3
 - ricordarsi cosa piace a Silvia
